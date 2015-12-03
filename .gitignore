@@ -1,6 +1,7 @@
 # Directories #
 #######################
 node_modules/
+resources/
 .sass-cache/
 config.rb
 
@@ -16,5 +17,7 @@ Gruntfile.js
 ._*
 .Spotlight-V100
 .Trashes
+.project
+.tscache
 ehthumbs.db
 Thumbs.db
